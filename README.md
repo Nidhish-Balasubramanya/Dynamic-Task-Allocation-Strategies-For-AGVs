@@ -1,4 +1,4 @@
-# Dynamic-AGV-Task-Allocation-in-Smart-Warehouses
+# Dynamic Task Allocation Strategies 
 This project implements a Dynamic Task Allocation Framework for Automated Guided Vehicles (AGVs) inside a smart warehouse simulation using CoppeliaSim.
 Tasks are assigned to AGVs in real time based on Euclidean distance, enabling adaptive scheduling and efficient navigation compared to static or zone-based allocation.
 
@@ -88,3 +88,4 @@ This project is licensed under the MIT License.
 Allen Reji - allenreji@gmail.com <br>
 Nathania Rachael - nathaniarachael@gmail.com <br>
 Nidhish Balasubramanya - nidhishbalasubramanya@gmail.com
+
